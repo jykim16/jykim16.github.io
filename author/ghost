@@ -128,7 +128,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Welcome to Ghost&url=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
@@ -168,7 +168,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Using the Ghost editor&url=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
@@ -208,7 +208,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Organising your content with tags&url=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
@@ -248,7 +248,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Managing Ghost users&url=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
@@ -288,7 +288,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Making your site private&url=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
@@ -328,7 +328,7 @@ ghost.init({
 					<h4>Share: &nbsp;</h4>
 					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Advanced Markdown tips&url=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Twitter</span></a>
 				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Google+</span></a>
+				<!-- <a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Google+</span></a> -->
 				</section>
 			</footer>
 
