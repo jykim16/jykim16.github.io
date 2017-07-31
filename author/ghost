@@ -18,8 +18,8 @@
 <meta property="fb:admins" content="">
 
 <link href='http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic|Open+Sans:300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=df71f9044c" />
-<link rel="stylesheet" type="text/css" href="../assets/css/font-awesome.min.css?v=df71f9044c" />
+<link rel="stylesheet" type="text/css" href="../assets/css/style.css?v=0c2af96d39" />
+<link rel="stylesheet" type="text/css" href="../assets/css/font-awesome.min.css?v=0c2af96d39" />
 
 <meta name="HandheldFriendly" content="True" />
 <meta name="MobileOptimized" content="320" />
@@ -27,32 +27,34 @@
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
     <link rel="canonical" href="ghost" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
-    <link rel="next" href="http://jykim16.github.io/author/ghost/page/2/" />
-
+    <link rel="next" href="http://localhost:2368/author/ghost/page/2/" />
+    
     <meta property="og:site_name" content="Teacher to Coder!" />
     <meta property="og:type" content="profile" />
     <meta property="og:title" content="Ghost - Page 1 - Teacher to Coder!" />
-    <meta property="og:url" content="http://jykim16.github.io/author/ghost/" />
+    <meta property="og:url" content="http://localhost:2368/author/ghost/" />
     <meta property="article:modified_time" content="2017-07-30T23:30:26.000Z" />
+    <meta property="article:publisher" content="https://www.facebook.com/jonykim" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Ghost - Page 1 - Teacher to Coder!" />
-    <meta name="twitter:url" content="http://jykim16.github.io/author/ghost/" />
-
+    <meta name="twitter:url" content="http://localhost:2368/author/ghost/" />
+    <meta name="twitter:site" content="@teachertocoder" />
+    
     <script type="application/ld+json">
 {
     "@context": "https://schema.org",
     "@type": "Person",
     "sameAs": [],
     "name": "Ghost",
-    "url": "http://jykim16.github.io/author/ghost/",
+    "url": "http://localhost:2368/author/ghost/",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://jykim16.github.io/"
+        "@id": "http://localhost:2368/"
     }
 }
     </script>
 
-    <script type="text/javascript" src="../public/ghost-url.js?v=df71f9044c"></script>
+    <script type="text/javascript" src="../public/ghost-url.js?v=0c2af96d39"></script>
 <script type="text/javascript">
 ghost.init({
 	clientId: "ghost-frontend",
@@ -104,7 +106,7 @@ ghost.init({
 						</li>
 					</ul>
 
-					<h2 class="posttitle_typesome"><a href="../welcome/index.html" rel="bookmark">
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/welcome/index.html" rel="bookmark">
 						Welcome to Ghost
 					</a></h2>
 
@@ -117,16 +119,16 @@ ghost.init({
 
 			<footer class="excerptfooter_typesome" >
 				<section class="read_typesome">
-					<a class="more_typesome" href="../welcome/index.html">Read More</a>
+					<a class="more_typesome" href="../2017/07/30/welcome/index.html">Read More</a>
 					<span></span>
-					<a class="comments_typesome" href="../welcome/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72e">Comments</a>
+					<a class="comments_typesome" href="../2017/07/30/welcome/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72e">Comments</a>
 				</section>
 
 				<section class="share_typesome">
 					<h4>Share: &nbsp;</h4>
-					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Welcome to Ghost&url=http://jykim16.github.io/welcome/"><span class="hidden_typesome">Twitter</span></a>
-				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://jykim16.github.io/welcome/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://jykim16.github.io/welcome/"><span class="hidden_typesome">Google+</span></a>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Welcome to Ghost&url=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/welcome/"><span class="hidden_typesome">Google+</span></a>
 				</section>
 			</footer>
 
@@ -144,7 +146,7 @@ ghost.init({
 						</li>
 					</ul>
 
-					<h2 class="posttitle_typesome"><a href="../the-editor/index.html" rel="bookmark">
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/the-editor/index.html" rel="bookmark">
 						Using the Ghost editor
 					</a></h2>
 
@@ -157,16 +159,16 @@ ghost.init({
 
 			<footer class="excerptfooter_typesome" >
 				<section class="read_typesome">
-					<a class="more_typesome" href="../the-editor/index.html">Read More</a>
+					<a class="more_typesome" href="../2017/07/30/the-editor/index.html">Read More</a>
 					<span></span>
-					<a class="comments_typesome" href="../the-editor/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72d">Comments</a>
+					<a class="comments_typesome" href="../2017/07/30/the-editor/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72d">Comments</a>
 				</section>
 
 				<section class="share_typesome">
 					<h4>Share: &nbsp;</h4>
-					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Using the Ghost editor&url=http://jykim16.github.io/the-editor/"><span class="hidden_typesome">Twitter</span></a>
-				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://jykim16.github.io/the-editor/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://jykim16.github.io/the-editor/"><span class="hidden_typesome">Google+</span></a>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Using the Ghost editor&url=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/the-editor/"><span class="hidden_typesome">Google+</span></a>
 				</section>
 			</footer>
 
@@ -184,7 +186,7 @@ ghost.init({
 						</li>
 					</ul>
 
-					<h2 class="posttitle_typesome"><a href="../using-tags/index.html" rel="bookmark">
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/using-tags/index.html" rel="bookmark">
 						Organising your content with tags
 					</a></h2>
 
@@ -197,16 +199,16 @@ ghost.init({
 
 			<footer class="excerptfooter_typesome" >
 				<section class="read_typesome">
-					<a class="more_typesome" href="../using-tags/index.html">Read More</a>
+					<a class="more_typesome" href="../2017/07/30/using-tags/index.html">Read More</a>
 					<span></span>
-					<a class="comments_typesome" href="../using-tags/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72c">Comments</a>
+					<a class="comments_typesome" href="../2017/07/30/using-tags/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72c">Comments</a>
 				</section>
 
 				<section class="share_typesome">
 					<h4>Share: &nbsp;</h4>
-					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Organising your content with tags&url=http://jykim16.github.io/using-tags/"><span class="hidden_typesome">Twitter</span></a>
-				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://jykim16.github.io/using-tags/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://jykim16.github.io/using-tags/"><span class="hidden_typesome">Google+</span></a>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Organising your content with tags&url=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/using-tags/"><span class="hidden_typesome">Google+</span></a>
 				</section>
 			</footer>
 
@@ -224,7 +226,7 @@ ghost.init({
 						</li>
 					</ul>
 
-					<h2 class="posttitle_typesome"><a href="../managing-users/index.html" rel="bookmark">
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/managing-users/index.html" rel="bookmark">
 						Managing Ghost users
 					</a></h2>
 
@@ -237,16 +239,16 @@ ghost.init({
 
 			<footer class="excerptfooter_typesome" >
 				<section class="read_typesome">
-					<a class="more_typesome" href="../managing-users/index.html">Read More</a>
+					<a class="more_typesome" href="../2017/07/30/managing-users/index.html">Read More</a>
 					<span></span>
-					<a class="comments_typesome" href="../managing-users/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72b">Comments</a>
+					<a class="comments_typesome" href="../2017/07/30/managing-users/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72b">Comments</a>
 				</section>
 
 				<section class="share_typesome">
 					<h4>Share: &nbsp;</h4>
-					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Managing Ghost users&url=http://jykim16.github.io/managing-users/"><span class="hidden_typesome">Twitter</span></a>
-				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://jykim16.github.io/managing-users/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://jykim16.github.io/managing-users/"><span class="hidden_typesome">Google+</span></a>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Managing Ghost users&url=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/managing-users/"><span class="hidden_typesome">Google+</span></a>
 				</section>
 			</footer>
 
@@ -264,7 +266,7 @@ ghost.init({
 						</li>
 					</ul>
 
-					<h2 class="posttitle_typesome"><a href="../private-sites/index.html" rel="bookmark">
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/private-sites/index.html" rel="bookmark">
 						Making your site private
 					</a></h2>
 
@@ -277,16 +279,56 @@ ghost.init({
 
 			<footer class="excerptfooter_typesome" >
 				<section class="read_typesome">
-					<a class="more_typesome" href="../private-sites/index.html">Read More</a>
+					<a class="more_typesome" href="../2017/07/30/private-sites/index.html">Read More</a>
 					<span></span>
-					<a class="comments_typesome" href="../private-sites/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72a">Comments</a>
+					<a class="comments_typesome" href="../2017/07/30/private-sites/index.html#disqus_thread" data-disqus-identifier="597e6c1277eade16b9edf72a">Comments</a>
 				</section>
 
 				<section class="share_typesome">
 					<h4>Share: &nbsp;</h4>
-					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Making your site private&url=http://jykim16.github.io/private-sites/"><span class="hidden_typesome">Twitter</span></a>
-				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://jykim16.github.io/private-sites/"><span class="hidden_typesome">Facebook</span></a>
-				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://jykim16.github.io/private-sites/"><span class="hidden_typesome">Google+</span></a>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Making your site private&url=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/private-sites/"><span class="hidden_typesome">Google+</span></a>
+				</section>
+			</footer>
+
+		</article>
+
+
+		<article class="article_typesome">
+
+				<header class="postheader_typesome">
+					<ul>
+						<li><time class="date_typesome">
+						Sunday 30 Jul 2017</time></li>
+						<li class="posttags_typesome">
+						<a href="../tag/getting-started/index.html">Getting Started</a>
+						</li>
+					</ul>
+
+					<h2 class="posttitle_typesome"><a href="../2017/07/30/advanced-markdown/index.html" rel="bookmark">
+						Advanced Markdown tips
+					</a></h2>
+
+				</header>
+
+			<div class="postcontent_typesome">
+				<p>There are lots of powerful things you can do with the Ghost editor If you've gotten pretty comfortable with all the basics of writing in Ghost, then you may enjoy some more advanced tips about the types of things you can do with Markdown! As with the last post about&hellip;</p>
+			</div>
+
+
+			<footer class="excerptfooter_typesome" >
+				<section class="read_typesome">
+					<a class="more_typesome" href="../2017/07/30/advanced-markdown/index.html">Read More</a>
+					<span></span>
+					<a class="comments_typesome" href="../2017/07/30/advanced-markdown/index.html#disqus_thread" data-disqus-identifier="597e6c1177eade16b9edf729">Comments</a>
+				</section>
+
+				<section class="share_typesome">
+					<h4>Share: &nbsp;</h4>
+					<a class="fa fa-twitter-square" target="_blank" href="http://twitter.com/share?text=Advanced Markdown tips&url=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Twitter</span></a>
+				<a class="fa fa-facebook-square" target="_blank" href="http://www.facebook.com/sharer.php?u=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Facebook</span></a>
+				<a class="fa fa-google-plus-square" target="_blank" href="https://plus.google.com/share?url=http://localhost:2368/2017/07/30/advanced-markdown/"><span class="hidden_typesome">Google+</span></a>
 				</section>
 			</footer>
 
@@ -296,7 +338,7 @@ ghost.init({
 	<div class="pagination_typesome">
 		<nav class="pagination" role="navigation">
     <span class="page-number">Page 1 of 2</span>
-        <a class="older-posts" href="http://jykim16.github.io/author/ghost/page/2/">Older Posts <span class="fa fa-chevron-right"></span></a>
+        <a class="older-posts" href="http://localhost:2368/author/ghost/page/2/">Older Posts <span class="fa fa-chevron-right"></span></a>
 </nav>
 
 	</div>
@@ -307,10 +349,10 @@ ghost.init({
 <footer class="footer_typesome">
 	<div class="main_typesome">
 	<ul>
-		<li><span class="tooltip">Subscribe!</span><a class="fa fa-rss" target="_blank" href="jykim16.github.io/rss/"></a></li>
-		<li><span class="tooltip">Twitter</span><a class="fa fa-twitter" href="http://jykim16.github.io/author/ghost/www.twitter.com/teachertocoder"></a></li>
-		<li><span class="tooltip">Facebook</span><a class="fa fa-facebook" href="http://jykim16.github.io/author/ghost/www.facebook.com/jonykim16"></a></li>
-		<li><span class="tooltip">Github</span><a class="fa fa-github" href="http://jykim16.github.io/author/ghost/www.github.com/jykim16"></a></li>
+		<!-- <li><span class="tooltip">Subscribe!</span><a class="fa fa-rss" target="_blank" href="http://localhost:2368/rss/"></a></li> -->
+		<li><span class="tooltip">Twitter</span><a class="fa fa-twitter" href="http://www.twitter.com/teachertocoder"></a></li>
+		<li><span class="tooltip">Facebook</span><a class="fa fa-facebook" href="http://www.facebook.com/jonykim"></a></li>
+		<li><span class="tooltip">Github</span><a class="fa fa-github" href="http://www.github.com/jykim16"></a></li>
 	</ul>
 		<hr />
 		<p>All content copyright <a href="../index.html">Teacher to Coder!</a> &copy; 2017 &bull; All rights reserved.</p>
@@ -332,8 +374,8 @@ ghost.init({
     }());
 </script>
 
-<script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=df71f9044c"></script>
-<script type="text/javascript" src="../assets/js/index.js?v=df71f9044c"></script>
+<script type="text/javascript" src="../assets/js/jquery.fitvids.js?v=0c2af96d39"></script>
+<script type="text/javascript" src="../assets/js/index.js?v=0c2af96d39"></script>
 
 </body>
 </html>
